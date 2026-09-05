@@ -1,0 +1,19 @@
+# Never commit real credentials
+.env
+.env.*
+config.local.js
+secrets.json
+
+# Netlify
+.netlify/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local working copies of the internal build
+*_internal.html
+*_private.html
