@@ -14,6 +14,14 @@ polygon — the rounded, glowing line is presentation only.*
 
 ---
 
+## The Story
+
+I work in operations at a Melbourne courier company. Staff were spending significant time manually looking up delivery zones and calculating quotes — cross-referencing spreadsheets, estimating distances, and working out whether a suburb was in our metro coverage area or not using google maps.
+
+I had very little prior development experience. No one asked me to build this, but I knew there was a better way. I used Claude + ClaudeCode in VS Code to help design and build this tool from scratch over a series of sessions and iterations. Every early feature was described in plain English, debugged through conversation, and iterated on based on real feedback from staff using it.
+
+The result is a live, password-protected internal tool that staff use daily. As of v2.0 (September 2026), it's being repositioned as a national country rate calculator across multiple depots at our company. This will require a new approach to scale the site so that it can safely handle higher frequency use. I'll also engage the relevant IT Security teams on hardening the site and reducing its current attack surface before any expansion. I have a clear path forward, and security is the first priority for this upgrade. 
+
 ## About this repository
 
 This is a **sanitised public build** of an internal tool. It is published as a
