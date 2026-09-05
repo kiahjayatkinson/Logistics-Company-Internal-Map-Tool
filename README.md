@@ -1,4 +1,4 @@
-# JetMap — Country Rate Calculator
+# Transport Company Map — Country Rate Calculator
 
 A single-file route pricing and zone classification tool built for a Melbourne
 courier company. Calculates multi-stop country freight rates across seven vehicle
